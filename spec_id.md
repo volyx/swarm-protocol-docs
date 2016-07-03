@@ -1,0 +1,6 @@
+ # ObjectId #
+
+ObjectId is a LamportTimestamp.
+
+origin used for ...
+time used for ...
