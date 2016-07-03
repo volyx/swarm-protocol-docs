@@ -6,6 +6,7 @@
 * [Specifiers](spec.md) - compound event... descriptors
     * [Type](type.md) - type description  
     * [ObjectId](object_id.md) - objectId description  
+    * [Spec stamp](spec_stamp.md) - objectId description
 * [Operations](op.md) - immutable ops are Swarm's blood cells
 * [Replicas](replica.md) - database replicas, full and partial
 * [Handshakes](handshake.md) - how sync sessions start and end
